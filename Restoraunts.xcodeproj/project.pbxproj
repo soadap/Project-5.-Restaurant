@@ -109,6 +109,8 @@
 			children = (
 				4CE28E762217B093000CD803 /* Restoraunts */,
 				4CE28E752217B093000CD803 /* Products */,
+				4CC6690E22320FBA004C9F43 /* README.md */,
+				4CC6690922320FBA004C9F43 /* Screenshots */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,8 +125,6 @@
 		4CE28E762217B093000CD803 /* Restoraunts */ = {
 			isa = PBXGroup;
 			children = (
-				4CC6690E22320FBA004C9F43 /* README.md */,
-				4CC6690922320FBA004C9F43 /* Screenshots */,
 				4CD48F95221F6D340012EA45 /* Controller */,
 				4CD48F8E221F6B720012EA45 /* Model */,
 				4CD48F8D221F6B630012EA45 /* View */,
