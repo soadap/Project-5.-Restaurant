@@ -7,7 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C09384D222F4A4A00604275 /* OrderConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C09384C222F4A4A00604275 /* OrderConfirmationViewController.swift */; };
 		4C892CF6221F81B8008D6590 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C892CF5221F81B8008D6590 /* Constants.swift */; };
+		4CC6690F22320FBB004C9F43 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC6690A22320FBA004C9F43 /* screenshot1.png */; };
+		4CC6691022320FBB004C9F43 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC6690B22320FBA004C9F43 /* screenshot2.png */; };
+		4CC6691122320FBB004C9F43 /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC6690C22320FBA004C9F43 /* screenshot3.png */; };
+		4CC6691222320FBB004C9F43 /* screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC6690D22320FBA004C9F43 /* screenshot4.png */; };
+		4CC6691322320FBB004C9F43 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4CC6690E22320FBA004C9F43 /* README.md */; };
 		4CD48F86221F65BA0012EA45 /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD48F85221F65BA0012EA45 /* CategoryTableViewController.swift */; };
 		4CD48F88221F65ED0012EA45 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD48F87221F65ED0012EA45 /* MenuTableViewController.swift */; };
 		4CD48F8A221F65F90012EA45 /* OrderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD48F89221F65F90012EA45 /* OrderTableViewController.swift */; };
@@ -17,14 +23,19 @@
 		4CD48F94221F6CEF0012EA45 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD48F93221F6CEF0012EA45 /* Order.swift */; };
 		4CD48F97221F6D490012EA45 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD48F96221F6D490012EA45 /* MenuController.swift */; };
 		4CE28E782217B093000CD803 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE28E772217B093000CD803 /* AppDelegate.swift */; };
-		4CE28E7A2217B093000CD803 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE28E792217B093000CD803 /* ViewController.swift */; };
 		4CE28E7D2217B093000CD803 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE28E7B2217B093000CD803 /* Main.storyboard */; };
 		4CE28E7F2217B095000CD803 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CE28E7E2217B095000CD803 /* Assets.xcassets */; };
 		4CE28E822217B095000CD803 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE28E802217B095000CD803 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C09384C222F4A4A00604275 /* OrderConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderConfirmationViewController.swift; sourceTree = "<group>"; };
 		4C892CF5221F81B8008D6590 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		4CC6690A22320FBA004C9F43 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		4CC6690B22320FBA004C9F43 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		4CC6690C22320FBA004C9F43 /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
+		4CC6690D22320FBA004C9F43 /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot4.png; sourceTree = "<group>"; };
+		4CC6690E22320FBA004C9F43 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4CD48F85221F65BA0012EA45 /* CategoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
 		4CD48F87221F65ED0012EA45 /* MenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
 		4CD48F89221F65F90012EA45 /* OrderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewController.swift; sourceTree = "<group>"; };
@@ -35,7 +46,6 @@
 		4CD48F96221F6D490012EA45 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		4CE28E742217B093000CD803 /* Restoraunts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restoraunts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CE28E772217B093000CD803 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4CE28E792217B093000CD803 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4CE28E7C2217B093000CD803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4CE28E7E2217B095000CD803 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4CE28E812217B095000CD803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -53,13 +63,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4CC6690922320FBA004C9F43 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				4CC6690A22320FBA004C9F43 /* screenshot1.png */,
+				4CC6690B22320FBA004C9F43 /* screenshot2.png */,
+				4CC6690C22320FBA004C9F43 /* screenshot3.png */,
+				4CC6690D22320FBA004C9F43 /* screenshot4.png */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		4CD48F8D221F6B630012EA45 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				4CE28E792217B093000CD803 /* ViewController.swift */,
 				4CD48F8B221F67680012EA45 /* MenuItemDetailViewController.swift */,
 				4CD48F85221F65BA0012EA45 /* CategoryTableViewController.swift */,
 				4CD48F87221F65ED0012EA45 /* MenuTableViewController.swift */,
+				4C09384C222F4A4A00604275 /* OrderConfirmationViewController.swift */,
 				4CD48F89221F65F90012EA45 /* OrderTableViewController.swift */,
 			);
 			path = View;
@@ -102,6 +123,8 @@
 		4CE28E762217B093000CD803 /* Restoraunts */ = {
 			isa = PBXGroup;
 			children = (
+				4CC6690E22320FBA004C9F43 /* README.md */,
+				4CC6690922320FBA004C9F43 /* Screenshots */,
 				4CD48F95221F6D340012EA45 /* Controller */,
 				4CD48F8E221F6B720012EA45 /* Model */,
 				4CD48F8D221F6B630012EA45 /* View */,
@@ -174,7 +197,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CE28E822217B095000CD803 /* LaunchScreen.storyboard in Resources */,
+				4CC6690F22320FBB004C9F43 /* screenshot1.png in Resources */,
 				4CE28E7F2217B095000CD803 /* Assets.xcassets in Resources */,
+				4CC6691122320FBB004C9F43 /* screenshot3.png in Resources */,
+				4CC6691222320FBB004C9F43 /* screenshot4.png in Resources */,
+				4CC6691022320FBB004C9F43 /* screenshot2.png in Resources */,
+				4CC6691322320FBB004C9F43 /* README.md in Resources */,
 				4CE28E7D2217B093000CD803 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -194,8 +222,8 @@
 				4CD48F94221F6CEF0012EA45 /* Order.swift in Sources */,
 				4CD48F8A221F65F90012EA45 /* OrderTableViewController.swift in Sources */,
 				4CD48F92221F6C510012EA45 /* IntermediaryModels.swift in Sources */,
-				4CE28E7A2217B093000CD803 /* ViewController.swift in Sources */,
 				4CE28E782217B093000CD803 /* AppDelegate.swift in Sources */,
+				4C09384D222F4A4A00604275 /* OrderConfirmationViewController.swift in Sources */,
 				4CD48F86221F65BA0012EA45 /* CategoryTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

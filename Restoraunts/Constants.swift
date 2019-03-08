@@ -14,3 +14,5 @@ let ORDER_CELL_IDENTIFIER = "OrderCellIdentifier"
 
 let MENU_DETAIL_SEGUE = "MenuDetailSegue"
 let MENU_SEGUE = "MenuSegue"
+let CONFIRMATION_SEGUE = "ConfirmationSegue"
+let DISMISS_CONFIRMATION_SEGUE = "DismissConfirmation"
